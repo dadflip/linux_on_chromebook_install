@@ -1,0 +1,11 @@
+Auteur: Davide C. (Dadflip)
+
+
+
+Déplacez votre archive depuis downloads vers fichier linux (avec l'explorateur de fichiers chromebook)
+Ouvrez un terminal:
+décompressez l'archive avec la commande: tar -xzvf B.A.SHell.tar.gz
+rendez les fichiers exécutables avec: sudo chmod +x B.A.SHell/*.sh
+accédez au dossier B.A.SHell : cd B.A.SHell/
+lancez l'installation: ./Install.sh
+
